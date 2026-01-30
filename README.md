@@ -1,4 +1,4 @@
-https://github.com/sofiyamoorozova-14/ono-tebe-nado
+https://github.com/sofiyamoorozova-14/ono-tebe-nado-ad.git
 
 # Яндекс Практикум, 1 спринт, проект "Оно тебе надо"
 
@@ -20,13 +20,13 @@ https://github.com/sofiyamoorozova-14/ono-tebe-nado
 
 ### Ссылки
 
-- URL решения: [Github](https://github.com/sofiyamoorozova014/ono-tebe-nado)
+- URL решения: [Github](https://github.com/sofiyamoorozova-14/ono-tebe-nado-ad.git)
 - URL лайв сервера: [Netlify](https://startling-smakager-41be0b.netlify.app/)
 
 ## Автор
 
 - Github - [sofiyamoorozova-14](https://github.com/sofiyamoorozova-14)
-- Frontend Mentor - [@sofiyamoorozova-14s](https://www.frontendmentor.io/profile/sofiyamoorozova-14)
+- Frontend Mentor - [@sofiyamoorozova-14](https://www.frontendmentor.io/profile/sofiyamoorozova-14)
 
 ## Благодарность
 
